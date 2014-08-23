@@ -6,6 +6,7 @@ Course Project for Getting and Cleaning Data
 ##Contents:
 * run_analysis.R -- The script for creating tidy data set
 * CodeBook.md -- Describes the variables, data, and transformations
+* avedata.csv -- Tidy dataset resulting from R script
 * README.md -- This file
 
 ##About the Project Data:
