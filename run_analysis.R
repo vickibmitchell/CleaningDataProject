@@ -80,6 +80,7 @@ colnames(avedata) <- c("Activity","Subject",cn)
 
 # and finally, write out the second tidy data set
 write.csv(avedata,file="avedata.csv",row.names=FALSE)
+write.table(avedata,file="avedata.txt",row.names=FALSE)
 
 
 
